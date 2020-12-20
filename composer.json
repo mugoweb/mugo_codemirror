@@ -1,0 +1,19 @@
+{
+    "name": "mugoweb/codemirror",
+    "description": "eZ Datatype to allow editing HTML code",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Philipp Kamps",
+            "homepage": "https://www.mugo.ca"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "mugo_codemirror"
+    }
+}
